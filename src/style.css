@@ -384,6 +384,10 @@ button:focus {
   z-index: -1;
 }
 
+.home-social-icons > svg {
+  /* height: 100%; */
+}
+
 .home-social-icons:hover::before {
   transform: scale(1.1);
   box-shadow: 0 0 15px #801f95;
@@ -403,6 +407,9 @@ button:focus {
 
 .icon-colour {
   color: #700c86 !important;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
 }
 
 /* --------- */

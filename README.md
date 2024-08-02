@@ -1,6 +1,8 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://vrajkumar-patel.github.io/" target="_blank">Vrajkumar Patel</a>
+  Portfolio Website
+  <br/>
+  <br/>
+  <a href="https://vrajkumar-patel.github.io/Portfolio/" target="_blank">Vrajkumar Patel</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/read-me.png" />
@@ -25,7 +27,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://vrajkumar-patel.github.io/" target="_blank">Vrajkumar Patel</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://vrajkumar-patel.github.io/Portfolio/" target="_blank">Vrajkumar Patel</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
